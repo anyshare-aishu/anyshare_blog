@@ -1,3 +1,14 @@
+---
+title: Anyshare Dify 插件使用指南
+date: 2026-04-07
+categories:
+  - 技术文档
+tags:
+  - Anyshare
+  - Dify
+  - AI
+---
+
 # Anyshare Dify 插件使用指南
 
 ## 目录
